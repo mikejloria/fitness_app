@@ -2,6 +2,7 @@
 
 ### Dependencies
 
+```markdown
 "dependencies": {
 "@emotion/react": "^11.9.0",
 "@emotion/styled": "^11.8.1",
@@ -14,3 +15,4 @@
 "react-router-dom": "^6.3.0",
 "react-scripts": "5.0.1"
 }
+```
