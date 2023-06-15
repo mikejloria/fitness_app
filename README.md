@@ -1,4 +1,4 @@
-# Fitness App
+# Fitness Web Application
 
 ### Dependencies
 
